@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Enterprise Dev</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-16.7%" y="-11.5%" width="133.3%" height="123.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Simform-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-menu-" transform="translate(-413.000000, -349.000000)">
+            <g id="Group" transform="translate(168.000000, 68.000000)">
+                <g id="Enterprise-Dev" transform="translate(245.000000, 281.000000)">
+                    <circle id="Oval" fill="#EDD5FF" cx="25" cy="25" r="25"></circle>
+                    <path d="M17,14 L33,14 C33.5522847,14 34,14.4477153 34,15 L34,39 C34,39.5522847 33.5522847,40 33,40 L17,40 C16.4477153,40 16,39.5522847 16,39 L16,15 C16,14.4477153 16.4477153,14 17,14 Z" id="Rectangle" fill-opacity="0.500054633" fill="#CCA0EE" filter="url(#filter-1)"></path>
+                    <path d="M17,12 L33,12 C33.5522847,12 34,12.4477153 34,13 L34,37 C34,37.5522847 33.5522847,38 33,38 L17,38 C16.4477153,38 16,37.5522847 16,37 L16,13 C16,12.4477153 16.4477153,12 17,12 Z" id="Rectangle" fill="#CCA0EE"></path>
+                    <circle id="Oval" fill="#FFFFFF" cx="25.5" cy="33.5" r="1.5"></circle>
+                    <path d="M25,24.2263645 L25,26.852029 C25,29.7159903 11,29.7159903 11,26.852029 L11,26.852029 L11,24.2263645 C11,27.0905092 25,27.0905092 25,24.2263645 L25,24.2263645 Z M25,20.4991577 L25,23.1246388 C25,25.9886002 11,25.9886002 11,23.1246388 L11,23.1246388 L11,20.4991577 C11,23.3633023 25,23.3633023 25,20.4991577 L25,20.4991577 Z M11,17.6482459 C11,14.783918 25,14.783918 25,17.6482459 L25,17.6482459 L25,19.3988111 C25,22.2625891 11,22.2625891 11,19.3988111 L11,19.3988111 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

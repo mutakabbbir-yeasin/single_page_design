@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Dedicated soft</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-8.8%" y="-15.0%" width="117.6%" height="130.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Simform-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-menu-" transform="translate(-833.000000, -108.000000)">
+            <g id="Group" transform="translate(168.000000, 68.000000)">
+                <g id="Dedicated-soft" transform="translate(665.000000, 40.000000)">
+                    <circle id="Oval" fill="#D3FAD9" cx="25" cy="25" r="25"></circle>
+                    <g id="Dedicated-software-team" transform="translate(8.000000, 15.000000)">
+                        <g id="Group-12">
+                            <path d="M1,22 C0.44771525,22 -4.26258006e-13,21.5522847 -4.26325641e-13,21 L-4.26325641e-13,20 C-4.26393277e-13,19.4477153 0.44771525,19 1,19 L2,19 L2,3 C2,2.44771525 2.44771525,2 3,2 L31,2 C31.5522847,2 32,2.44771525 32,3 L32,19 L33,19 C33.5522847,19 34,19.4477153 34,20 L34,21 C34,21.5522847 33.5522847,22 33,22 L1,22 Z" id="Combined-Shape" fill-opacity="0.501119974" fill="#8DCC97" filter="url(#filter-1)"></path>
+                            <path d="M3,0 L31,0 C31.5522847,-1.01453063e-16 32,0.44771525 32,1 L32,19 C32,19.5522847 31.5522847,20 31,20 L3,20 C2.44771525,20 2,19.5522847 2,19 L2,1 C2,0.44771525 2.44771525,1.01453063e-16 3,0 Z" id="Rectangle" fill="#8DCC97"></path>
+                            <path d="M1,17 L33,17 C33.5522847,17 34,17.4477153 34,18 L34,19 C34,19.5522847 33.5522847,20 33,20 L1,20 C0.44771525,20 6.76353751e-17,19.5522847 0,19 L0,18 C-6.76353751e-17,17.4477153 0.44771525,17 1,17 Z" id="Rectangle" fill="#8DCC97"></path>
+                            <path d="M15,13.4852682 C15,12.1126925 13.8807119,11 12.5,11 C11.1192881,11 10,12.1126925 10,13.4852682 C10,14.1791728 15,14.1639394 15,13.4852682 Z" id="Oval" fill="#FFFFFF"></path>
+                            <circle id="Oval" fill="#FFFFFF" cx="12.5" cy="8.5" r="1.5"></circle>
+                            <path d="M23,13.4852682 C23,12.1126925 21.8807119,11 20.5,11 C19.1192881,11 18,12.1126925 18,13.4852682 C18,14.1791728 23,14.1639394 23,13.4852682 Z" id="Oval" fill="#FFFFFF"></path>
+                            <circle id="Oval" fill="#FFFFFF" cx="20.5" cy="8.5" r="1.5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

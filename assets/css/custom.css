@@ -1,0 +1,630 @@
+
+
+/*************************************************************************************************
+Custom Software Development start
+**************************************************************************************************/
+.no_padding{
+padding: 0px !important;
+/*padding-right: 0px !important;*/
+}
+.b_pd_80{
+padding-top: 80px;
+}
+.b_bg_color{
+    background-color: #F9F5FF;
+    padding: 0px !important;
+    margin: 0px !important;
+    }
+.b_top{
+padding-top: 120px;
+text-align: center;
+position: relative;
+margin: 0px !important;
+}
+.b_cus{
+    padding-top: 120px;
+   
+}
+
+
+
+.txt_grd {
+background-image: linear-gradient(100deg, rgb(61, 61, 61), rgb(255, 77, 99));
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+display: inline-block;
+}
+
+
+
+
+#b_1{
+font-size: 20px;
+padding-top: 10px;
+padding-bottom: 20px;
+
+}
+.highlight-head {
+border-bottom: 3px solid pink;
+}
+#heading-wrapper {
+max-width: 610px;
+text-align: center;
+margin: 0px auto;
+}
+/********** Farzana Apu Start ************/
+.a3 {
+text-align:center;
+max-width: 520px;
+margin: 0px auto;
+}
+
+.a3 h3 {
+font-size: 44px;
+line-height: 53px;
+letter-spacing: -0.48px;
+font-family: sans-serif;
+font-weight: 700;
+margin-bottom: 20px;
+}
+/*padding-top: 50px;
+font-size: 38px;
+line-height: 47px;
+margin-bottom: 18px;
+}*/
+.highlight-head {
+position: relative;
+text-decoration: none;
+border-bottom: 5px solid rgb(251, 207, 213) ;
+}
+.heading-para {
+    font-size: 20px;
+max-width: 610px;
+text-align: justify;
+margin: 0px auto;
+}
+/*.heading-para p {
+font-size: 20px;
+line-height: 30px;
+}
+.heading-para {
+max-width: 615px;
+}
+.heading-para {
+max-width: 690px;
+text-align: center;
+margin: 0px auto;
+}*/
+.color-through.animated {
+background-size: 100% 15px;
+}
+.color-through {
+color: rgb(239, 83, 102);
+position: relative;
+background: url(../img/red-shape.png) 0px 13px / 0px 15px no-repeat;
+background-repeat: no-repeat;
+background-position: 0px 13px;
+transition: all 0.5s ease 0.5s;
+}
+/************Farzana apu end********/
+.a3 {
+text-align:center;
+max-width: 520px;
+margin: 0px auto;
+}
+
+.a3 h3 {
+padding-top: 50px;
+font-size: 38px;
+line-height: 47px;
+margin-bottom: 18px;
+}
+.highlight-head {
+position: relative;
+text-decoration: none;
+border-bottom: 5px solid rgb(251, 207, 213) ;
+}
+.heading-para p {
+font-size: 20px;
+line-height: 30px;
+}
+.heading-para {
+max-width: 615px;
+}
+.heading-para {
+max-width: 690px;
+text-align: center;
+margin: 0px auto;
+}
+.color-through.animated {
+background-size: 100% 15px;
+}
+.color-through {
+color: rgb(239, 83, 102);
+position: relative;
+background: url(../img/red-shape.png) 0px 13px / 0px 15px no-repeat;
+background-repeat: no-repeat;
+background-position: 0px 13px;
+transition: all 0.5s ease 0.5s;
+}
+/************Farzana apu end********/
+#b_2{
+
+border-color: red !important;
+}
+#b_3{
+height: 330px ;
+width: 730px;
+
+}
+#b_4{
+font-size: 45px;
+}
+.b_6{
+padding-top: 50px;
+/* position: relative; */
+}
+.b_7{
+    font-weight: 600;
+    padding-left: 160px;
+}
+
+.b_7 h2{
+    font-weight: 700;
+    color: black;
+}
+
+#b_8{
+height: 550px;
+width:100%;
+margin-left: 100px;
+/* padding-right: 0px !important; */
+}
+#b_9{
+height: 620px;
+width:100%;
+/* margin-right: 100px; */
+}
+.b_10{
+padding-right: 170px;
+padding-top: 140px;
+padding-left: 130px;
+font-weight: 600;
+}
+.b_10 h2{
+    font-weight: 700;
+    color: black;
+}
+
+.b_11{
+padding-top: 120px;
+padding-left: 170px;
+padding-right: 100px;
+font-weight: 600;
+}
+.b_11 h2{
+    font-weight: 700;
+    color: black;
+}
+.b_12{
+padding-top: 25px;
+}
+.b_13{
+padding-top: 10px;
+}
+.b_14{
+padding-left: 170px;
+padding-right: 100px;
+}
+.b_14 p {
+font-size: 16px;
+}
+.b_15{
+padding-bottom: 50px;
+}
+.b_16{
+background-color: #CECECE;
+}
+.b_17{
+padding-top: 40px;
+padding-bottom: 30px;
+}
+.b_18{
+background-color: #000000;
+color: #E4E4E4;
+}
+.b_19{
+padding-top: 200px;
+}
+/*******************************************************************************
+bg dark image er moto dekte j ekta ache oita start
+*******************************************************************************/
+.b_round{
+    height: 241px;
+    width: 270px;
+    background-color: black;
+    padding-top: 243px;
+    padding-left: 56px;
+}
+.loader-wrap {
+position: relative;
+width: 255px;
+}
+.loader-wrap .code-arrow {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+color: #fff;
+font-size: 30px;
+font-weight: bold;
+}
+.loader-wrap .code-arrow i {
+font-size: 42px;
+font-weight: bold;
+margin: 0 5px;
+}
+#preloader {
+border-radius: 50%;
+border: 11px solid #ffffff;
+border-top-color: transparent;
+width: 255px;
+height: 255px;
+-webkit-animation: spin 5s linear infinite;
+animation: spin 5s linear infinite;
+}
+#loader {
+display: block;
+position: relative;
+left: 50%;
+top: 50%;
+width: 215px;
+height: 215px;
+margin: -108px 0 0 -108px;
+border-radius: 50%;
+border: 11px solid #999;
+border-left-color: transparent;
+-webkit-animation: spin 4s linear infinite;
+animation: spin 4s linear infinite;
+}
+#loader:before {
+content: "";
+position: absolute;
+top: 10px;
+left: 10px;
+right: 10px;
+bottom: 10px;
+border-radius: 50%;
+border: 11px solid #666;
+border-right-color: transparent;
+-webkit-animation: spin 3s linear infinite;
+animation: spin 3s linear infinite;
+}
+#loader:after {
+content: "";
+position: absolute;
+top: 30px;
+left: 30px;
+right: 30px;
+bottom: 30px;
+border-radius: 50%;
+border: 11px solid #333;
+border-bottom-color: transparent;
+-webkit-animation: spin 3s linear infinite;
+animation: spin 3s linear infinite;
+}
+@-webkit-keyframes spin {
+0%   {
+-webkit-transform: rotate(0deg);
+-ms-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100% {
+-webkit-transform: rotate(360deg);
+-ms-transform: rotate(360deg);
+transform: rotate(360deg);
+}
+}
+@keyframes spin {
+0%   {
+-webkit-transform: rotate(0deg);
+-ms-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100% {
+-webkit-transform: rotate(360deg);
+-ms-transform: rotate(360deg);
+transform: rotate(360deg);
+}
+.b_30{
+    padding-top: 250px;
+    padding-left: 56px;
+    position: relative;
+}
+.justify-content-center {
+   padding-top: 200px;
+    justify-content: center !important;
+}
+}
+.b_dark{
+height: 800px;
+width: 655px;
+background-color: #010001;
+padding: 0px !important;
+
+}
+.b_20{
+padding-top: 230px;
+/* text-align: center; */
+}
+.securing-right-list {
+height: 100%;
+display: grid;
+align-items: center;
+}
+.securing-right-list ul {
+padding-left: 22px;
+list-style: disc;
+font-size: 20px;
+margin: 0;
+line-height: 45px;
+color: #fff;
+}
+
+.solutions-text {
+text-align: center;
+padding-top: 200px;
+display: grid;
+align-self: flex-end;
+position: relative;
+}
+.b_tab_pad{
+    padding-top: 40px;
+}
+/*******************************************************************************
+bg dark image er moto dekte j ekta ache oita end
+*******************************************************************************/
+/*************************************************************************************************
+Custom Software Development end
+**************************************************************************************************/
+
+/* table */
+
+.b_tab_pad{
+    padding-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+/*********************************************************************
+Footer section starts
+**********************************************************************/
+/* Footer Section Starts */
+.social img{
+height: 30px;
+width: 150px;
+}
+.social i{
+color: gray;
+font-size: 25px;
+padding: 8px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.links ul li a{
+display: block;
+text-decoration: none;
+color: gray;
+margin-left: -40px;
+}
+.links ul li a:hover{
+color: #e63e4c;
+}
+.areas{
+margin-left: -40px;
+margin-right: 40px;
+}
+.recent{
+margin-left: 0px;
+}
+.recent ul li a{
+color: gray;
+padding-bottom: 12px;
+text-decoration: none;
+margin-left: -35px;
+}
+.recent ul li a:hover{
+color: #e63e4c;
+}
+/* Footer Section Ends */
+/* Copyright section starts */
+#copyright{
+background-color: ##c9d0e8;
+}
+/* Copyright section ends */
+/*********************************************************************
+Footer section ends
+**********************************************************************/
+
+
+
+
+
+/*************************************************************
+                Responsive 
+**************************************************************/
+
+/*************************************************************
+           Small device (phones) 
+**************************************************************/
+@media screen and (max-width: 767px) {
+   #b_3{
+       height: 230px;
+       width: 340px;
+   }
+   .b_7{
+       text-align: center;
+       margin-left: auto;
+       margin-right: auto;
+       display: block;
+       padding-left: 50px;
+   }
+   #b_8{
+    height: 284px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding-left: 40px;
+}
+
+    #b_9{
+        height: 284px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+        padding-left: 50px;
+        padding-right: 14px;
+
+    }
+
+ .b_10{
+    text-align: center;
+       /* margin-left: auto; */
+       /* margin-right: auto; */
+       display: block;
+       padding-left: 60px;
+       /* width: 100%; */
+   }
+   .b_11{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-left: 50px;
+   }
+   .b_14{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-left: 50px;
+   }
+   .securing-right-list ul{
+       
+       padding-left: 90px !important;
+       padding-top: 160px;;
+   }
+   .b_30{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-left: 80px;
+   }
+ 
+
+   .b_round {
+    height: 241px;
+    width: 270px;
+    background-color: black;
+    padding-top: 95px;
+    padding-left: 10px;
+}
+.solutions-text {
+    text-align: center;
+    padding-top: 60px;
+    display: grid;
+    align-self: flex-end;
+    position: relative;
+}
+.b_fot_res_1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+}
+/*************************************************************
+             Medium device (tablets)
+**************************************************************/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+    #b_3{
+        height: 400px;
+        width: 800px;
+    }
+    #b_9 {
+        
+        width: 100%;
+        
+        padding-left: 10%;
+        height: 500px;
+    }
+    .b_10 {
+        padding-right: 90px;
+        padding-top: 0px;
+        padding-left: 140px;
+        font-weight: 600;
+    }
+    .b_10 h2 {
+        font-weight: 700;
+        color: black;
+        width: auto;
+    }
+    .b_10 h2 p {
+        width: auto;
+        margin-top: 0;
+        margin-bottom: 1rem;
+    }
+    .b_14{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-left: 50px;
+         
+    .b_dark{
+        height:600px;
+        width: auto;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+
+    .b_round {
+        height: 241px;
+        width: 270px;
+        background-color: black;
+        padding-top: 50px;
+        padding-left: 118px;
+    }
+    .b_14 h2{
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+
+   
+    .b_fot_res_1{
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        padding-left: 10px;
+        padding-top: 15px;
+    }
+}
+/*************************************************************
+        Large device (extra large desktops)
+**************************************************************/
+@media (min-width: 1024px) {
+
+}

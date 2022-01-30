@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Hire top mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-16.7%" y="-11.5%" width="133.3%" height="123.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Simform-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-270.000000, -268.000000)">
+            <g id="Hire-top-mobile" transform="translate(270.000000, 268.000000)">
+                <circle id="Oval" fill="#FDE8DA" cx="25" cy="25" r="25"></circle>
+                <path d="M17,14 L33,14 C33.5522847,14 34,14.4477153 34,15 L34,39 C34,39.5522847 33.5522847,40 33,40 L17,40 C16.4477153,40 16,39.5522847 16,39 L16,15 C16,14.4477153 16.4477153,14 17,14 Z" id="Rectangle" fill-opacity="0.501420455" fill="#F9AA8F" filter="url(#filter-1)"></path>
+                <path d="M17,12 L33,12 C33.5522847,12 34,12.4477153 34,13 L34,37 C34,37.5522847 33.5522847,38 33,38 L17,38 C16.4477153,38 16,37.5522847 16,37 L16,13 C16,12.4477153 16.4477153,12 17,12 Z" id="Rectangle" fill="#F9AA8F"></path>
+                <path d="M16,23 C18.7614237,23 21,25.225385 21,27.9705365 C21,29.3278788 11,29.3583457 11,27.9705365 C11,25.225385 13.2385763,23 16,23 Z M16,15 C17.6568542,15 19,16.3431458 19,18 C19,19.6568542 17.6568542,21 16,21 C14.3431458,21 13,19.6568542 13,18 C13,16.3431458 14.3431458,15 16,15 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <circle id="Oval" fill="#FFFFFF" cx="25.5" cy="32.5" r="1.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

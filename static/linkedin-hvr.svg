@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>linkedin</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-345.000000, -13547.000000)" fill="#EF5366" fill-rule="nonzero">
+            <g id="linkedin" transform="translate(345.000000, 13547.000000)">
+                <g id="How-it-works">
+                    <g id="How-It-Works">
+                        <g id="icons8-linkedin">
+                            <path d="M16,0 L2,0 C0.895,0 0,0.895 0,2 L0,16 C0,17.105 0.895,18 2,18 L16,18 C17.105,18 18,17.105 18,16 L18,2 C18,0.895 17.105,0 16,0 Z M6,14 L3.477,14 L3.477,7 L6,7 L6,14 Z M4.694,5.717 C3.923,5.717 3.408,5.203 3.408,4.517 C3.408,3.831 3.922,3.317 4.779,3.317 C5.55,3.317 6.065,3.831 6.065,4.517 C6.065,5.203 5.551,5.717 4.694,5.717 Z M15,14 L12.558,14 L12.558,10.174 C12.558,9.116 11.907,8.872 11.663,8.872 C11.419,8.872 10.605,9.035 10.605,10.174 C10.605,10.337 10.605,14 10.605,14 L8.082,14 L8.082,7 L10.605,7 L10.605,7.977 C10.93,7.407 11.581,7 12.802,7 C14.023,7 15,7.977 15,10.174 L15,14 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
